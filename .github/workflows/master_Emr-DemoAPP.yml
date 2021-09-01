@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'Emr-DemoAPP'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_5c64de46b5ac4047bc96a4a6cd99e438 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_357658b7a63a4c3799ae17d5aa46805f }}
         package: .
